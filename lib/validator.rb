@@ -28,7 +28,8 @@ class Validator
 #    "1.1" => { :version => "PBCore 1.1", :xsd => "PBCoreXSD_Ver_1-1_Final.xsd" },
     "1.2" => { :version => "PBCore 1.2", :xsd => "PBCoreSchema_v1-2.xsd" },
     "1.2.1" => { :version => "PBCore 1.2.1", :xsd => "PBCoreXSD_Ver_1-2-1.xsd" },
-    "1.3" => { :version => "PBCore 1.3", :xsd => "PBCoreXSD-v1.3.xsd" }
+    "1.3" => { :version => "PBCore 1.3", :xsd => "PBCoreXSD-v1.3.xsd" },
+    "2.0RC1" => { :version => "PBCore 2.0 RC 1", :xsd => "pbcore-2.0.xsd" }
   }.freeze
 
   # A set of predefined value lists, which are recommended in various circumstances.
