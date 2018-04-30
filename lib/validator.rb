@@ -304,7 +304,7 @@ class Validator
     ]
     
     INSTANTIATION_MEDIA_TYPES = [ 
-		'Moving Image', 'Audio'
+		'MovingImage', 'Audio'
 	]
 
     GENERATIONS = [
