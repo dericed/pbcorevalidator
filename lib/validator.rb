@@ -375,7 +375,7 @@ class Validator
     ]
 
     ESSENCE_TRACK_TYPES = ["video", "audio", "text", "caption", "subtitle",
-        "metadata", "sprite", "timecode"]
+        "metadata", "sprite", "timecode", "Video", "DVS", "Audio", "CC", "Text"]
 
     GENRES = [
       "Action", "Actuality", "Adults Only", "Adventure", "Advice",
